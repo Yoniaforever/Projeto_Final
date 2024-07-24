@@ -2,7 +2,7 @@ import requests
 import json
 
 criar_cont_api = 'https://apipf.jogajuntoinstituto.org/register'
-email = 'matheusmu303@gmail.com'
+email = 'matheusmu301@gmail.com'
 
 cria_cont = {
     "email": email,
